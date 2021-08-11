@@ -1,0 +1,4 @@
+low,Get sheepdog
+very high,Get sheep
+very low,Move from apartment to farm
+RIGHT NOW!,Stop obsessing over it and turn it in already!

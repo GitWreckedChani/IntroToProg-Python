@@ -1,0 +1,2 @@
+Lamp,$30
+End Table,$70
